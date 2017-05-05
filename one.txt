@@ -2,3 +2,4 @@ Hello World
 This is second line added by now
 add by GitClone
 to get conflicted by git mm
+last line by git mm
