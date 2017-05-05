@@ -1,2 +1,3 @@
 second file
 GitInto By addin text
+conflict wanted by Clonegit
